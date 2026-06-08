@@ -17,8 +17,11 @@ Apliquei o material com 5 educadores de diferentes níveis de ensino (fundamenta
 3. **Pós-teste** — reaplicação do mesmo questionário para medir a variação.
 4. **Análise** — consolidação dos resultados, comparação antes/depois e leitura qualitativa dos comentários.
 
-A coleta foi feita em Google Forms, de forma anonimizada — coerente com o próprio tema do guia (proteção de dados).
+A coleta foi feita em Google Forms, de forma anonimizada — coerente com o próprio tema do guia (proteção de dados):
 
+- [Formulário do pré-teste](https://docs.google.com/forms/d/e/1FAIpQLScASCAb8hNBD3yTHiRiYY4fqreenVHSzbq_sV72tQY_Uv3exw/viewform)
+- [Formulário do pós-teste](https://docs.google.com/forms/d/e/1FAIpQLSd0aaxMzFXWPBf4Q2Zj6DBUtHfLSxsaF88a5chYhPmZuux6-g/viewform)
+  
 ## Resultados
 
 | Métrica | Pré-teste | Pós-teste | Variação |
